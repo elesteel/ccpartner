@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color
+        name="main_background"
+        >#449def</color>
+    <color
+        name="semi_alpha"
+        >#80000000</color>
+    <color
+        name="result"
+        >#ffffff</color>
+</resources>
